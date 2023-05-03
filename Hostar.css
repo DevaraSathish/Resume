@@ -1,0 +1,18 @@
+nav{
+    background-color: rgb(17, 16, 16);
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+   height: 100px;
+}
+div{
+    color: white;
+}
+#a{
+    color: darkgoldenrod;
+font-weight: bold;
+
+}
+*{
+    background-color: black;
+}
